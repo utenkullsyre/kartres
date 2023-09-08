@@ -1,46 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   version="1.1"
-   id="圖層_1"
-   x="0"
-   y="0"
-   viewBox="0 0 77.721756 55"
-   xml:space="preserve"
-   sodipodi:docname="veg_ikon_hvit.svg"
-   width="77.721756"
-   height="55"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:d="https://loading.io/stock/"><defs
-     id="defs860" /><sodipodi:namedview
-     id="namedview858"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="12.08"
-     inkscape:cx="38.865894"
-     inkscape:cy="27.483444"
-     inkscape:window-width="3378"
-     inkscape:window-height="1417"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="圖層_1" /><path
-     id="path6323"
-     d="m 20.182716,0 c -1.2,0 -2.301172,0.800391 -2.701172,1.900391 L 0.18271586,51.199219 c -0.7,1.9 0.699219,3.800781 2.69921904,3.800781 H 28.682716 l 0.59961,-7.599609 H 48.481544 L 49.081154,55 h 25.800781 c 1.9,0 3.299219,-1.900781 2.699219,-3.800781 L 60.282326,1.900391 C 59.882326,0.800391 58.781154,0 57.581154,0 Z m 12.59961,3.400391 h 12.199218 l 0.800782,9.199218 H 31.981544 Z m -1.201172,14.699218 h 14.601562 l 0.699219,9.201172 h -16 z m -1.09961,14.701172 h 16.800782 l 0.798828,9.09961 H 29.682716 Z"
-     style="fill:#ffffff" /><g
-     id="g853"
-     transform="translate(-11.118065,-22.5)" /><metadata
-     id="metadata855">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54.725" height="54.725" version="1.1" viewBox="0 0 54.725 54.725" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:d="https://loading.io/stock/"><metadata>
 <d:name>road</d:name>
 <d:tags>highway,milestone,move,portal,roadmap,plan,road,web application</d:tags>
 <d:license>by</d:license>
 <d:slug>dzl5aa</d:slug>
-</metadata></svg>
+</metadata><g transform="matrix(1.338 0 0 1.338 -40.606 -13.026)"><path d="m50.798 10.185c-11 0-20 9-20 20s9 20 20 20 20-9 20-20-9-20-20-20z" fill="#ff9600" stroke="#000" stroke-width=".9"/></g><path d="m18.411 11.012c-0.62692 0-1.2022 0.41815-1.4112 0.99283l-9.0375 25.756c-0.3657 0.99263 0.3653 1.9857 1.4102 1.9857h13.479l0.31326-3.9703h10.03l0.31326 3.9703h13.479c0.99263 0 1.7236-0.99304 1.4102-1.9857l-9.0375-25.756c-0.20897-0.57468-0.78427-0.99283-1.4112-0.99283zm6.5825 1.7765h6.3733l0.41836 4.806h-7.21zm-0.62754 7.6794h7.6284l0.3653 4.807h-8.359zm-0.57448 7.6804h8.7773l0.41734 4.754h-9.612z" fill="#fff" stroke-width=".52244"/></svg>
